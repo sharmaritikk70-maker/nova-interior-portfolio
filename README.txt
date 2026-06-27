@@ -1,0 +1,1 @@
+Open index.html to test. Upload full folder to Netlify/Vercel/GitHub Pages for live link.
